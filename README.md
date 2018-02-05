@@ -1,3 +1,3 @@
 # VisHW
-Popov Sergei
-email: greyhumann@yandex.ru
+# Popov Sergei
+greyhumann@yandex.ru
